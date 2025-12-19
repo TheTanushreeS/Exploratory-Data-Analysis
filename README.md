@@ -1,2 +1,2 @@
 # Exploratory-Data-Analysis
-Car Sales Data Analysis. A beginner Project as Data Analyst. Discovered trends and patterns of car sales in the market 
+Car Sales Data Analysis. A beginner Project as Data Analyst. Discovered trends and patterns of car sales in the market. By using prominent Python libraries like pandas, matplotlib, seaborn etc. insights have been found about different brands, their respective models, different fuel type and their market demand, factors affecting pricing etc. Statistics and Visualisations are used to show the distribution of data in an easy to understand approach. 
